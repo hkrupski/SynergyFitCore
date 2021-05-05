@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynergyFitCore", "SynergyFitCore\SynergyFitCore.csproj", "{62F47E97-6D11-4747-A4ED-0ADE580B5C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F47E97-6D11-4747-A4ED-0ADE580B5C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F47E97-6D11-4747-A4ED-0ADE580B5C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F47E97-6D11-4747-A4ED-0ADE580B5C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F47E97-6D11-4747-A4ED-0ADE580B5C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F41F32-6395-4813-83A0-404E139B2E40}
+	EndGlobalSection
+EndGlobal

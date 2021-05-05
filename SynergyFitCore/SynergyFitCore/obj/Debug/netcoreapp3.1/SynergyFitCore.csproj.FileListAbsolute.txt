@@ -1,0 +1,13 @@
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\bin\Debug\netcoreapp3.1\SynergyFitCore.exe
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\bin\Debug\netcoreapp3.1\SynergyFitCore.deps.json
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\bin\Debug\netcoreapp3.1\SynergyFitCore.runtimeconfig.json
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\bin\Debug\netcoreapp3.1\SynergyFitCore.runtimeconfig.dev.json
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\bin\Debug\netcoreapp3.1\SynergyFitCore.dll
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\bin\Debug\netcoreapp3.1\SynergyFitCore.pdb
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\obj\Debug\netcoreapp3.1\SynergyFitCore.csprojAssemblyReference.cache
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\obj\Debug\netcoreapp3.1\SynergyFitCore.AssemblyInfoInputs.cache
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\obj\Debug\netcoreapp3.1\SynergyFitCore.AssemblyInfo.cs
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\obj\Debug\netcoreapp3.1\SynergyFitCore.csproj.CoreCompileInputs.cache
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\obj\Debug\netcoreapp3.1\SynergyFitCore.dll
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\obj\Debug\netcoreapp3.1\SynergyFitCore.pdb
+C:\Users\mcannon\source\repos\SynergyFitCore\SynergyFitCore\obj\Debug\netcoreapp3.1\SynergyFitCore.genruntimeconfig.cache
